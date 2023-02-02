@@ -1,2 +1,2 @@
 # ThreadPool
-Thread pool built on STL for managing multiple threads, processes and easy usage.
+Thread pool built on STL for managing multiple concurrent processes.
